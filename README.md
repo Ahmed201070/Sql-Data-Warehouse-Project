@@ -25,5 +25,8 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key
 saness metrics, enabling strategic decision-making.
 
+ -------
+* About me:
+Hi there! I'm *Ahmed Essam EL-Dieni**,I'm a Data Analyst.
 
 
