@@ -28,6 +28,6 @@ saness metrics, enabling strategic decision-making.
  -------
 **About me:**
         
-Hi there! I'm **Ahmed Essam EL-Dieni**,I'm a Data Analyst.
+Hi there! I'm **Ahmed Essam EL-Dien**,I'm a Data Analyst.
 
 
